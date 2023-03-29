@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+}
+.nav{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: rgb(5, 107, 107);
+}
